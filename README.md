@@ -1,4 +1,4 @@
-# **Gerwyn Zulqarnain - Data Engineer**
+# **Gerwyn Zulqarnain - A Data Engineer Portofolio**
 
 Entry-level **Data Engineer** with experience in building and optimizing data pipelines. Skilled in ETL processes, data preprocessing, and using SQL and Python to manage and transform data. Leveraging a background in industrial engineering to design efficient data workflows and generate actionable insights. 
 
@@ -30,6 +30,7 @@ Entry-level **Data Engineer** with experience in building and optimizing data pi
 ---
 
 ### **Portofolio Projects**
+End-To-End Data Engineer Coffee Sales Project
 **Code** : [End-To-End Data Engineer Coffee Sales Project](https://github.com/grwyn/ETL-project)
 
 **Description**: This project involves designing and implementing an ETL pipeline to process coffee sales data efficiently. The pipeline leverages Apache Airflow for orchestration, Apache Spark for data transformation, and Google BigQuery for scalable storage and analysis. The workflow extracts raw sales data, cleans and transforms it, and loads it into BigQuery for further insights. To support data-driven decision-making, the project also includes a dashboard that visualizes key sales metrics, enabling stakeholders to monitor trends, identify top-performing products, and analyze revenue fluctuations over time.
