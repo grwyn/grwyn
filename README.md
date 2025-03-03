@@ -48,6 +48,8 @@ CODE : [Connect on LinkedIn](https://www.linkedin.com/in/gerwyn-zulqarnain/)
 
 # THANKS FOR YOUR ATTENTION!
 
+![Alt Text](https://images.pexels.com/photos/2876486/pexels-photo-2876486.png?auto=compress&cs=tinysrgb&dpr=1&w=500)
+
 Sincerely,
 
 *grwyn*
