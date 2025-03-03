@@ -30,25 +30,21 @@ Entry-level **Data Engineer** with experience in building and optimizing data pi
 ---
 
 ### **Portofolio Projects**
-CODE : [Connect on LinkedIn](https://www.linkedin.com/in/gerwyn-zulqarnain/)
+**Code** : [End-To-End Data Engineer Coffee Sales Project](https://github.com/grwyn/ETL-project)
 
-**Code** : [Airline Passenger Satisfaction Analysis](https://github.com/tuanx18/ds-projects/blob/main/Airline_Passenger_Satisfaction.ipynb)
+**Description**: This project involves designing and implementing an ETL pipeline to process coffee sales data efficiently. The pipeline leverages Apache Airflow for orchestration, Apache Spark for data transformation, and Google BigQuery for scalable storage and analysis. The workflow extracts raw sales data, cleans and transforms it, and loads it into BigQuery for further insights. To support data-driven decision-making, the project also includes a dashboard that visualizes key sales metrics, enabling stakeholders to monitor trends, identify top-performing products, and analyze revenue fluctuations over time.
 
-**Description**: This project assists an airline in identifying areas for improvement based on feedback information from each client who utilized its services. The collection of data includes a wide range of information, including consumer gender, age, and type as well as numerous rating criteria like Inflight service and Cleanliness. It comprises 23 fields in total that are used to determine whether or not the customer is satisfied. My EDA was followed by various recommendations for successful problem-solving tactics. These suggestions intended to improve my strategy and were supported by data-driven insights. Then, in order to advise the person who required it, I utilized 10 different machine learning models to determine which one was the best and most effective.
+**Goal**: Examines the monthly sales performance to identify revenue trends and top-performing products
 
-**Goal**: To determine in which fields do the airline need improvement
+**Skills**: data transformation, data visualization, data quality
 
-**Skills**: data cleaning, data analysis, data visualization, machine learning, predictive models, confusion matrix, balancing data.
+**Technology**: Airflow, GCP, Google Cloud Storage, Google Bigquery, DBT, Metabase 
 
-**Technology**: Python, Pandas, Matplotlib, Histplot, Correlation Heatmap, Confusion Matrix, Classification Report, RobustScaler, ROC Curve, CatBoost, Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, Ada Boost, K-Neighbors Classifier, GaussianNB, Multi-layer Perceptron
-
-**Results**: Utilized various machine learning models to identify areas for improvement in an airline's services based on customer feedback, enhancing the airline's strategy and customer satisfaction
+**Results**: Utilized Apache Airflow for orchestration, automating data workflows to generate actionable insights.
 
 ---
 
 # THANKS FOR YOUR ATTENTION!
-
-![Alt Text](https://images.pexels.com/photos/2876486/pexels-photo-2876486.png?auto=compress&cs=tinysrgb&dpr=1&w=500)
 
 Sincerely,
 
