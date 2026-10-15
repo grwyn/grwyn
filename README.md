@@ -16,7 +16,7 @@ Entry-level **Data Engineer** with experience in building and optimizing data pi
 ### **Connect with Me**
 
 - **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/gerwyn-zulqarnain/)
-- **Email**: gzulqarnain00@gmail.com
+- **Email**: gerwyn.work@gmail.com
 
 ---
 
